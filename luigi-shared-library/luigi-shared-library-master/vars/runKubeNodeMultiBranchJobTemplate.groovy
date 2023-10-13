@@ -1,0 +1,1 @@
+// Pipeline for Nodejs angular kubernetes based jenkins jobs
